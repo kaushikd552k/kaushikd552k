@@ -1,7 +1,6 @@
 ## Hi there, I'm Kaushik 👋
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="400px" />
-<div class="tenor-gif-embed" data-postid="12697354" data-share-method="host" data-aspect-ratio="1.95122" data-width="100%"><a href="https://tenor.com/view/debugging-programming-debugging-is-like-debugging-be-like-wipe-mess-gif-12697354">Debugging Programming GIF</a>from <a href="https://tenor.com/search/debugging-gifs">Debugging GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" alt="GIF" src="https://c.tenor.com/97gs87bOyQAAAAAC/debugging-programming.gif" width="400px" />
 
 - 👀 I’m interested in wed designing
 - 🔭 I’m currently working on Web Development with Angular
