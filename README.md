@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="50px">
 
 
-<img align="right" margin-right=0 alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350px" />
+<img align="right" margin-right=-20 alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350px" />
 
 - 👀 I’m interested in wed designing
 - 🔭 I’m currently working on Web Development with Angular
