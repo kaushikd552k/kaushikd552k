@@ -1,6 +1,11 @@
 ## Hi there, I'm Kaushik 👋
 
-<img align="right" alt="GIF" src="https://c.tenor.com/97gs87bOyQAAAAAC/debugging-programming.gif" width="400px" />
+
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="50px">
+
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400px" />
 
 - 👀 I’m interested in wed designing
 - 🔭 I’m currently working on Web Development with Angular
