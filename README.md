@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with good resources on Web Development with Angular
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play CSGO | come and beat me 🎮
-- 📫 How to reach me: <b>kaushik.dutta@algoscale.com</b>
+- 📫 How to reach me: <b><i>kaushik.dutta@algoscale.com</i></b>
 
 ### Connect with me:
 
