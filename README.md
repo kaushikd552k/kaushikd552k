@@ -1,6 +1,6 @@
 ## Hi there, I'm Kaushik 👋
 
-<img align="right" alt="GIF" src="https://tenor.com/1rkc.gif" width="400px" />
+<img align="right" alt="GIF" src="https://tenor.com/view/debugging-programming-debugging-is-like-debugging-be-like-wipe-mess-gif-12697354" width="400px" />
 
 - 👀 I’m interested in wed designing
 - 🔭 I’m currently working on Web Development with Angular
