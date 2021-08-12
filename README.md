@@ -1,6 +1,6 @@
 ## Hi there, I'm Kaushik 👋
 
-<img align="right" alt="GIF" src="https://gph.is/g/Zd7dVQW" width="400px" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="400px" />
 
 - 👀 I’m interested in wed designing
 - 🔭 I’m currently working on Web Development with Angular
