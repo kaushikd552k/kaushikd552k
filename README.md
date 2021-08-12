@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="310px" />
 
-- 👀 I’m interested in wed designing
+- 👀 I’m interested in Wed Designing
 - 🔭 I’m currently working on Web Development with Angular
 - 🌱 I’m currently learning angular 🅰
 - 🤔 I’m looking for help with good resources on Web Development with Angular
