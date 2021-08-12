@@ -1,4 +1,7 @@
 ## Hi there, I'm Kaushik 👋
+
+<div align:"right" style="width:100%;height:0;padding-bottom:83%;position:relative;"><iframe src="https://giphy.com/embed/WTjXuYA2y4o3UZly3W" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Venturit-WTjXuYA2y4o3UZly3W">via GIPHY</a></p>
+
 - 👀 I’m interested in wed designing
 - 🔭 I’m currently working on Web Development with Angular
 - 🌱 I’m currently learning angular 🅰
