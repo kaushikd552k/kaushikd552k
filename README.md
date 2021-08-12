@@ -1,9 +1,6 @@
+<img align="right" alt="GIF" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="100px">
+
 ## Hi there, I'm Kaushik 👋
-
-
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="50px">
-
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="310px" />
 
