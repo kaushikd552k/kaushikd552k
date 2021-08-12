@@ -1,4 +1,3 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="50px">
 ## Hi there, I'm Kaushik 👋
 
 <img align="right" alt="GIF" src="https://c.tenor.com/97gs87bOyQAAAAAC/debugging-programming.gif" width="400px" />
