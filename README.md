@@ -1,4 +1,4 @@
-### Hi there, I'm Kaushik 👋
+##### Hi there, I'm Kaushik 👋
 - 👀 I’m interested in wed designing
 - 🔭 I’m currently working on Web Development with Angular
 - 🌱 I’m currently learning angular 🅰
